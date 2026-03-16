@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://linkedin.com/in/elly-rezende"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:ellyrezendecontact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -70,19 +70,19 @@ I speak **Portuguese** (native), **English** (fluent), **Spanish** (fluent), wit
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🗂️ [**captains-log-tracker**](https://github.com/YOUR-USERNAME/captains-log-tracker) | Content distribution tracker with per-log checklists, credential vault, and analytics dashboard | React, Supabase, PostgreSQL, Tailwind |
-| 🎨 [**design-system-tokens**](https://github.com/YOUR-USERNAME/design-system-tokens) | Token-based design system with programmatic palette generation and dark theme architecture | Python, reportlab, CSS Variables, JSON |
-| 🌐 [**content-distribution-engine**](https://github.com/YOUR-USERNAME/content-distribution-engine) | Multi-platform publishing pipeline with 30+ channel adapters and formatting templates | Node.js, Markdown, API integrations |
-| 📚 [**scorm-course-toolkit**](https://github.com/YOUR-USERNAME/scorm-course-toolkit) | SCORM packaging tools, XLIFF localization helpers, and LMS integration utilities | JavaScript, XLIFF, SCORM 1.2/2004 |
+| 🗂️ [**captains-log-tracker**](https://github.com/elly-rezende/captains-log-tracker) | Content distribution tracker with per-log checklists, credential vault, and analytics dashboard | React, Supabase, PostgreSQL, Tailwind |
+| 🎨 [**design-system-tokens**](https://github.com/elly-rezende/design-system-tokens) | Token-based design system with programmatic palette generation and dark theme architecture | Python, reportlab, CSS Variables, JSON |
+| 🌐 [**content-distribution-engine**](https://github.com/elly-rezende/content-distribution-engine) | Multi-platform publishing pipeline with 30+ channel adapters and formatting templates | Node.js, Markdown, API integrations |
+| 📚 [**scorm-course-toolkit**](https://github.com/elly-rezende/scorm-course-toolkit) | SCORM packaging tools, XLIFF localization helpers, and LMS integration utilities | JavaScript, XLIFF, SCORM 1.2/2004 |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&bg_color=12141C&title_color=D4A853&icon_color=D4A853&text_color=E2E8F0&border_color=1A1D26" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?elly-rezende=elly-rezende&show_icons=true&theme=dark&bg_color=12141C&title_color=D4A853&icon_color=D4A853&text_color=E2E8F0&border_color=1A1D26" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&bg_color=12141C&title_color=D4A853&text_color=E2E8F0&border_color=1A1D26" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?elly-rezende=elly-rezende&layout=compact&theme=dark&bg_color=12141C&title_color=D4A853&text_color=E2E8F0&border_color=1A1D26" alt="Top Languages" height="165"/>
 </p>
 
 ---
